@@ -2,7 +2,7 @@ import SectionFadeIn from "@/components/SectionFadeIn";
 import { getWhatsAppUrl } from "@/lib/whatsapp";
 import { Phone, Heart, Target, Eye, Sparkles } from "lucide-react";
 import estruturaImg from "@/assets/clinica-estrutura.jpg";
-import quartoImg from "@/assets/quarto-clinica.jpg";
+import galeriaLavanderia from "@/assets/imagem-3.jpeg";
 import heroSobreImg from "@/assets/hero-sobre.jpg";
 import familiaImg from "@/assets/familia-reunida.jpg";
 
@@ -56,7 +56,7 @@ const Sobre = () => {
       <section className="section-padding bg-secondary">
         <div className="container-narrow mx-auto grid md:grid-cols-2 gap-12 items-center">
           <SectionFadeIn>
-            <img src={quartoImg} alt="Acomodações da clínica" className="rounded-2xl shadow-xl w-full object-cover aspect-[4/3]" loading="lazy" width={1280} height={720} />
+            <img src={galeriaLavanderia} alt="Acomodações da clínica" className="rounded-2xl shadow-xl w-full object-cover aspect-[4/3]" loading="lazy" width={1280} height={720} />
           </SectionFadeIn>
           <SectionFadeIn delay={0.2}>
             <p className="font-body text-sm uppercase tracking-[0.15em] text-primary font-semibold mb-2">Nosso propósito</p>
