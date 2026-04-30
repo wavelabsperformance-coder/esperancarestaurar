@@ -77,8 +77,7 @@ const Index = () => {
           </SectionFadeIn>
           <SectionFadeIn delay={0.2}>
             <p className="mt-7 font-body text-lg md:text-xl text-primary-foreground/85 max-w-2xl leading-relaxed">
-              Internação imediata, equipe multidisciplinar e um programa de 120 dias pensado para
-              acolher seu familiar com dignidade e devolver à família a paz que ela merece.
+               Internação imediata, equipe multidisciplinar e um projeto terapêutico singular. Com o objetivo de devolver a dignidade, auto confiança, consciência e motivação que seu ente querido necessita.
             </p>
           </SectionFadeIn>
           <SectionFadeIn delay={0.35}>

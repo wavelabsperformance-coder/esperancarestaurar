@@ -100,7 +100,7 @@ const Internacao = () => {
               Antes de tudo, respire
             </p>
             <h2 className="font-display text-3xl md:text-4xl font-bold text-foreground leading-tight">
-              Internar não é abandonar. É proteger.
+              A Internação não é punição, é um ato de amor.
             </h2>
             <p className="mt-6 font-body text-base md:text-lg leading-relaxed text-muted-foreground">
               Sabemos o peso da decisão que você está prestes a tomar. Internar um filho, um irmão
