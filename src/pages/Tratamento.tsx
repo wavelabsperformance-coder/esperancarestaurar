@@ -14,7 +14,7 @@ import {
   Shirt,
   Clock,
 } from "lucide-react";
-import terapiaImg from "@/assets/terapia-grupo.jpg";
+import galeriaLavanderia from "@/assets/imagem-3.jpeg";
 import heroTratamentoImg from "@/assets/hero-tratamento.jpg";
 import estruturaImg from "@/assets/clinica-estrutura.jpg";
 
@@ -123,7 +123,7 @@ const Tratamento = () => {
           </SectionFadeIn>
           <SectionFadeIn delay={0.2}>
             <img
-              src={terapiaImg}
+              src={galeriaLavanderia}
               alt="Sessão de terapia em grupo"
               className="rounded-2xl shadow-xl w-full object-cover aspect-[4/3]"
               loading="lazy"
